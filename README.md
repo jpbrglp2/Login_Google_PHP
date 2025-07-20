@@ -23,7 +23,7 @@ Projeto simples e funcional de login com o Google utilizando PHP puro e a biblio
 
 ---
 
-## ⚙⚙ Como usar:
+## ⚙⚙ Como usar
 
 1. Clone o repositório
     ```bash

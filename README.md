@@ -39,7 +39,7 @@ Projeto simples e funcional de login com o Google utilizando PHP puro e a biblio
 
     - Crie um OAuth 2.0 Client ID
 
-    - Coloque uma redirect uri
+    - Coloque uma redirect uri ex(http://localhost/google-login/callback.php)
 
 4. Substitua no login.php e callback.php:
    ```php

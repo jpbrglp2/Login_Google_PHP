@@ -1,6 +1,6 @@
 # 🔐 Login com Google usando PHP + OAuth 2.0
 
-Projeto simples e funcional de login com o Google utilizando PHP puro e a biblioteca oficial do Google API Client. Ideal para quem quer integrar autenticação social com um visual escuro e estilo programmer.
+Projeto simples e funcional de login com o Google utilizando PHP puro e a biblioteca oficial do Google API Client. Projeto esse para fins didáticos
 
 ---
 

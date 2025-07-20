@@ -42,7 +42,7 @@ Projeto simples e funcional de login com o Google utilizando PHP puro e a biblio
     - Coloque uma redirect uri
 
 4. Substitua no login.php e callback.php:
-
+   ```php
     -$cliente->setClientId('SEU_CLIENT_ID'); 
     -$cliente->setClientSecret('SEU_CLIENT_SECRET');
     -$cliente->setRedirectUri('Coloque a sua URL de direcionamento aqui');

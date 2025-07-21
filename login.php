@@ -118,7 +118,7 @@ $authUrl = $cliente->createAuthUrl();
     <form action="index.php" method="post">
         <input type="email" placeholder="Email ou nome" name="username" required>
         <input type="password" placeholder="Senha" name="password" required>
-        <a href="index.php">Cadastar-se</a>
+        <button class="custom-btn">Cadastre-se</button>
         <p>ou</p>
         <a href="<?= htmlspecialchars($authUrl) ?>" class="google-btn">
             <img src="google.png" alt="Google logo">Cadastre-se com o google

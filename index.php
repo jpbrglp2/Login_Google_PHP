@@ -74,7 +74,6 @@ if (!isset($_SESSION['user_email'])) {
 <body>
     <div class="container">
         <h1>Seja bem-vindo: <?= htmlspecialchars($_SESSION['user_name']) ?>!</h1>
-        <img src="<?= $_SESSION['user_picture'] ?>" alt="Avatar" width="200">
         <h2>Email: <?= htmlspecialchars($_SESSION['user_email']) ?></h2>
         <a href="logout.php">Logout</a>
     </div>

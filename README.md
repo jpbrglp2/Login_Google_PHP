@@ -19,7 +19,6 @@ Projeto simples e funcional de login com o Google utilizando PHP puro e a biblio
 - Sessão com dados do usuário (nome, e-mail, foto)
 - Logout seguro com destruição de sessão
 - Proteção contra XSS com `htmlspecialchars()`
-- Estilo visual responsivo e agradável
 
 ---
 

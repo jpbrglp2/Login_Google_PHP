@@ -19,8 +19,7 @@ if(isset($_GET['code'])){
 
         $_SESSION['user_email'] = $userinfor->email;
         $_SESSION['user_name'] = $userinfor->name;
-        $_SESSION['user_picture'] = $userinfor->picture;
-
+         
         header('location: index.php');
         exit;
 } else {
